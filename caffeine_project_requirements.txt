@@ -1,0 +1,11 @@
+pandas
+seaborn
+matplotlib
+pingouin
+openpyxl
+itertools
+pathlib
+scipy.stats
+stasmodels
+numpy
+itertools
